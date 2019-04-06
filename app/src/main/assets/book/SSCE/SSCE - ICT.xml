@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "138" page = "5,133" pageprefix = "SSCE - ICT" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,17"></item>
+		<item title = "Chapter 2" index = "18,47"></item>
+		<item title = "Chapter 3" index = "48,55"></item>
+		<item title = "Chapter 4" index = "56,67"></item>
+		<item title = "Chapter 5" index = "68,113"></item>
+		<item title = "Chapter 6" index = "114,133"></item>
+	</chapter>
+</book>

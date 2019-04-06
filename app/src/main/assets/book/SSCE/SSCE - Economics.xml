@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "178" page = "5,173" pageprefix = "SSCE - Economics" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,18"></item>
+		<item title = "Chapter 2" index = "19,32"></item>
+		<item title = "Chapter 3" index = "33,48"></item>
+		<item title = "Chapter 4" index = "49,65"></item>
+		<item title = "Chapter 5" index = "66,79"></item>
+		<item title = "Chapter 6" index = "80,91"></item>
+		<item title = "Chapter 7" index = "92,113"></item>
+		<item title = "Chapter 8" index = "114,134"></item>
+		<item title = "Chapter 9" index = "135,154"></item>
+		<item title = "Chapter 10" index = "155,173"></item>
+	</chapter>
+</book>

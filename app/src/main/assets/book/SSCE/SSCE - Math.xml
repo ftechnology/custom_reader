@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "390" page = "5,385" pageprefix = "SSCE - Math" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,21"></item>
+		<item title = "Chapter 2" index = "22,44"></item>
+		<item title = "Chapter 3" index = "45,79"></item>
+		<item title = "Chapter 4" index = "80,97"></item>
+		<item title = "Chapter 5" index = "98,117"></item>
+		<item title = "Chapter 6" index = "118,145"></item>
+		<item title = "Chapter 7" index = "146,163"></item>
+		<item title = "Chapter 8" index = "164,187"></item>
+        <item title = "Chapter 9" index = "188,212"></item>
+        <item title = "Chapter 10" index = "213,221"></item>
+        <item title = "Chapter 11" index = "222,241"></item>
+        <item title = "Chapter 12" index = "242,269"></item>
+        <item title = "Chapter 13" index = "270,288"></item>
+        <item title = "Chapter 14" index = "289,309"></item>
+        <item title = "Chapter 15" index = "310,318"></item>
+        <item title = "Chapter 16" index = "319,352"></item>
+        <item title = "Chapter 17" index = "353,385"></item>
+	</chapter>
+</book>

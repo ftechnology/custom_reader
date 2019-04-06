@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "248" page = "5,243" pageprefix = "SSCE - Geography" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,6"></item>
+		<item title = "Chapter 2" index = "7,29"></item>
+		<item title = "Chapter 3" index = "30,44"></item>
+		<item title = "Chapter 4" index = "45,69"></item>
+		<item title = "Chapter 5" index = "70,92"></item>
+		<item title = "Chapter 6" index = "93,106"></item>
+		<item title = "Chapter 7" index = "107,125"></item>
+		<item title = "Chapter 8" index = "126,137"></item>
+		<item title = "Chapter 9" index = "138,147"></item>
+        <item title = "Chapter 10" index = "148,165"></item>
+        <item title = "Chapter 11" index = "166,189"></item>
+        <item title = "Chapter 12" index = "190,204"></item>
+        <item title = "Chapter 13" index = "205,215"></item>
+        <item title = "Chapter 14" index = "216,232"></item>
+        <item title = "Chapter 15" index = "233,243"></item>
+	</chapter>
+</book>

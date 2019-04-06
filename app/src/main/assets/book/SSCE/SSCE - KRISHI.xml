@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "262" page = "5,257" pageprefix = "SSCE - KRISHI" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,37"></item>
+		<item title = "Chapter 2" index = "38,75"></item>
+        <item title = "Chapter 3" index = "76,104"></item>
+        <item title = "Chapter 4" index = "105,196"></item>
+        <item title = "Chapter 5" index = "197,226"></item>
+        <item title = "Chapter 6" index = "227,236"></item>
+        <item title = "Chapter 7" index = "237,257"></item>
+	</chapter>
+</book>

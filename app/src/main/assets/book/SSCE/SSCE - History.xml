@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "265" page = "5,260" pageprefix = "SSCE - History" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,7"></item>
+		<item title = "Chapter 2" index = "8,27"></item>
+		<item title = "Chapter 3" index = "28,32"></item>
+		<item title = "Chapter 4" index = "33,50"></item>
+		<item title = "Chapter 5" index = "51,63"></item>
+		<item title = "Chapter 6" index = "64,91"></item>
+		<item title = "Chapter 7" index = "92,109"></item>
+		<item title = "Chapter 8" index = "110,125"></item>
+        <item title = "Chapter 9" index = "126,142"></item>
+        <item title = "Chapter 10" index = "143,170"></item>
+        <item title = "Chapter 11" index = "171,184"></item>
+        <item title = "Chapter 12" index = "185,200"></item>
+        <item title = "Chapter 13" index = "201,228"></item>
+        <item title = "Chapter 14" index = "229,241"></item>
+        <item title = "Chapter 15" index = "242,260"></item>
+	</chapter>
+</book>

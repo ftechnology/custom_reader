@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "154" page = "5,149" pageprefix = "SSCE - Finance _ Banking" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,17"></item>
+		<item title = "Chapter 2" index = "18,32"></item>
+		<item title = "Chapter 3" index = "33,42"></item>
+		<item title = "Chapter 4" index = "43,52"></item>
+		<item title = "Chapter 5" index = "53,66"></item>
+		<item title = "Chapter 6" index = "67,77"></item>
+		<item title = "Chapter 7" index = "78,89"></item>
+		<item title = "Chapter 8" index = "90,97"></item>
+		<item title = "Chapter 9" index = "98,110"></item>
+		<item title = "Chapter 10" index = "111,119"></item>
+        <item title = "Chapter 11" index = "120,131"></item>
+        <item title = "Chapter 12" index = "132,137"></item>
+        <item title = "Chapter 13" index = "138,149"></item>
+	</chapter>
+</book>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "126" page = "5,126" pageprefix = "SSCE - ARTS _ CRAFTS" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,11"></item>
+		<item title = "Chapter 2" index = "12,33"></item>
+		<item title = "Chapter 3" index = "34,42"></item>
+		<item title = "Chapter 4" index = "43,56"></item>
+		<item title = "Chapter 5" index = "57,74"></item>
+		<item title = "Chapter 6" index = "75,80"></item>
+		<item title = "Chapter 7" index = "81,112"></item>
+		<item title = "Chapter 8" index = "113,121"></item>
+	</chapter>
+</book>

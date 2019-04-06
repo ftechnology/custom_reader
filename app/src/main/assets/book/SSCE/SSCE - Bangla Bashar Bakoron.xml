@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "222" page = "5,217" pageprefix = "SSCE - Bangla Bashar Bakoron" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1, Poricched 1" index = "1,7"></item>
+		<item title = "Chapter 1, Poricched 1" index = "8,12"></item>
+		<item title = "Chapter 2, Poricched 1" index = "13,26"></item>
+		<item title = "Chapter 2, Poricched 2" index = "27,30"></item>
+		<item title = "Chapter 2, Poricched 3" index = "31,33"></item>
+		<item title = "Chapter 2, Poricched 4" index = "34,44"></item>
+		<item title = "Chapter 3, Poricched 1" index = "45,48"></item>
+		<item title = "Chapter 3, Poricched 2" index = "49,52"></item>
+		<item title = "Chapter 3, Poricched 3" index = "53,55"></item>
+		<item title = "Chapter 3, Poricched 4" index = "56,58"></item>
+        <item title = "Chapter 3, Poricched 5" index = "59,60"></item>
+        <item title = "Chapter 3, Poricched 6" index = "61,71"></item>
+        <item title = "Chapter 3, Poricched 7" index = "72,78"></item>
+        <item title = "Chapter 3, Poricched 8" index = "79,82"></item>
+        <item title = "Chapter 3, Poricched 9" index = "83,87"></item>
+        <item title = "Chapter 3, Poricched 10" index = "88,94"></item>
+        <item title = "Chapter 3, Poricched 11" index = "95,96"></item>
+        <item title = "Chapter 4, Poricched 1" index = "97,111"></item>
+        <item title = "Chapter 4, Poricched 2" index = "112,118"></item>
+        <item title = "Chapter 4, Poricched 3" index = "119,124"></item>
+        <item title = "Chapter 4, Poricched 4" index = "125,131"></item>
+        <item title = "Chapter 4, Poricched 5" index = "132,135"></item>
+        <item title = "Chapter 4, Poricched 6" index = "136,146"></item>
+        <item title = "Chapter 4, Poricched 7" index = "147,158"></item>
+        <item title = "Chapter 4, Poricched 8" index = "159,162"></item>
+        <item title = "Chapter 5, Poricched 1" index = "163,176"></item>
+        <item title = "Chapter 5, Poricched 2" index = "177,195"></item>
+        <item title = "Chapter 5, Poricched 3" index = "196,200"></item>
+        <item title = "Chapter 5, Poricched 4" index = "201,204"></item>
+        <item title = "Chapter 5, Poricched 5" index = "205,209"></item>
+        <item title = "Chapter 5, Poricched 6" index = "210,213"></item>
+        <item title = "Chapter 5, Poricched 7" index = "214,217"></item>
+        
+	</chapter>
+</book>

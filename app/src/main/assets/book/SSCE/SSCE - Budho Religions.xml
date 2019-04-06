@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "214" page = "5,209" pageprefix = "SSCE - Budho Religions" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,25"></item>
+		<item title = "Chapter 2" index = "26,40"></item>
+		<item title = "Chapter 3" index = "41,61"></item>
+		<item title = "Chapter 4" index = "62,75"></item>
+		<item title = "Chapter 5" index = "76,91"></item>
+		<item title = "Chapter 6" index = "92,107"></item>
+		<item title = "Chapter 7" index = "108,117"></item>
+		<item title = "Chapter 8" index = "118,134"></item>
+		<item title = "Chapter 9" index = "135,147"></item>
+		<item title = "Chapter 10" index = "148,166"></item>
+        <item title = "Chapter 11" index = "167,192"></item>
+        <item title = "Chapter 12" index = "193,209"></item>
+	</chapter>
+</book>

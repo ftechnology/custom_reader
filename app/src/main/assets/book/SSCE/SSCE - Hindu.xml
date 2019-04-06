@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "150" page = "5,145" pageprefix = "SSCE - Hindu" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1, Section 1" index = "1,13"></item>
+        <item title = "Chapter 1, Section 2" index = "14,19"></item>
+		<item title = "Chapter 2, Section 1" index = "20,31"></item>
+        <item title = "Chapter 2, Section 2" index = "32,40"></item>
+		<item title = "Chapter 3" index = "41,48"></item>
+		<item title = "Chapter 4" index = "49,58"></item>
+		<item title = "Chapter 5" index = "59,74"></item>
+		<item title = "Chapter 6" index = "75,87"></item>
+		<item title = "Chapter 7" index = "88,97"></item>
+		<item title = "Chapter 8" index = "98,104"></item>
+        <item title = "Chapter 9" index = "105,117"></item>
+        <item title = "Chapter 10" index = "118,145"></item>
+	</chapter>
+</book>
