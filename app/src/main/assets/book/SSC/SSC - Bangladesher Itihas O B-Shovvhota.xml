@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "230" page = "5,225" pageprefix = "Bangladesher Itihas O B-Shovvhota" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,7"></item>
+		<item title = "Chapter 2" index = "8,25"></item>
+		<item title = "Chapter 3" index = "26,31"></item>
+		<item title = "Chapter 4" index = "32,46"></item>
+		<item title = "Chapter 5" index = "47,56"></item>
+        <item title = "Chapter 6" index = "57,81"></item>
+		<item title = "Chapter 7" index = "82,96"></item>
+		<item title = "Chapter 8" index = "97,110"></item>
+		<item title = "Chapter 9" index = "111,125"></item>
+		<item title = "Chapter 10" index = "126,149"></item>
+		<item title = "Chapter 11" index = "150,160"></item>
+        <item title = "Chapter 12" index = "161,174"></item>
+        <item title = "Chapter 13" index = "175,198"></item>
+        <item title = "Chapter 14" index = "199,209"></item>
+        <item title = "Chapter 15" index = "210,225"></item>
+        
+	</chapter>
+</book>

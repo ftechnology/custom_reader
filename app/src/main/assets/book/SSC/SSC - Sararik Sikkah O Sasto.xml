@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "162" page = "5,157" pageprefix = "SSC - Sararik Sikkah O Sasto" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,10"></item>
+		<item title = "Chapter 2" index = "11,19"></item>
+		<item title = "Chapter 3" index = "20,27"></item>
+        <item title = "Chapter 4" index = "28,38"></item>
+		<item title = "Chapter 5" index = "39,48"></item>
+		<item title = "Chapter 6" index = "49,63"></item>
+		<item title = "Chapter 7" index = "64,80"></item>
+        <item title = "Chapter 8" index = "81,120"></item>
+		<item title = "Chapter 9" index = "121,144"></item>
+		<item title = "Chapter 10" index = "145,157"></item>
+	</chapter>
+</book>

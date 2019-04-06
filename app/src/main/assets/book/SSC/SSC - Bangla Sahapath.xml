@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "74" page = "5,69" pageprefix = "SSCE - Bangla Sahapath" free="true"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Uponnas, Vumika" index = "1,8"></item>
+		<item title = "Uponnas, Kakatarua" index = "9,31"></item>
+		<item title = "Uponnas, Questionaries" index = "32,34"></item>
+		<item title = "Natok, Vumika" index = "35,40"></item>
+		<item title = "Natok, Bohipir" index = "41,65"></item>
+		<item title = "Natok, Questionaries" index = "66,69"></item>
+	</chapter>
+</book>

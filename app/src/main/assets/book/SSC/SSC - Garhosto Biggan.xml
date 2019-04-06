@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">
+	<meta total = "190" page = "5,185" pageprefix = "SSC - Garhosto Biggan" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,1"></item>
+		<item title = "Chapter 1" index = "2,10"></item>
+		<item title = "Chapter 2" index = "11,17"></item>
+		<item title = "Chapter 3" index = "18,23"></item>
+    <item title = "Chapter 4" index = "24,33"></item>
+		<item title = "Chapter 5" index = "34,47"></item>
+		<item title = "Chapter 6" index = "48,59"></item>
+		<item title = "Chapter 7" index = "60,70"></item>
+    <item title = "Chapter 8" index = "71,78"></item>
+		<item title = "Chapter 9" index = "79,86"></item>
+		<item title = "Chapter 10" index = "87,110"></item>
+    <item title = "Chapter 11" index = "111,118"></item>
+    <item title = "Chapter 12" index = "119,127"></item>
+		<item title = "Chapter 13" index = "128,140"></item>
+		<item title = "Chapter 14" index = "141,149"></item>
+		<item title = "Chapter 15" index = "150,160"></item>
+		<item title = "Chapter 16" index = "161,164"></item>
+		<item title = "Chapter 17" index = "165,169"></item>
+		<item title = "Chapter 18" index = "170,185"></item>
+	</chapter>
+</book>

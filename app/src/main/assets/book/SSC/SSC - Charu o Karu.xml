@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "126" page = "5,121" pageprefix = "SSC - Charu o Karu" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,10"></item>
+		<item title = "Chapter 2" index = "11,31"></item>
+		<item title = "Chapter 3" index = "32,41"></item>
+		<item title = "Chapter 4" index = "42,55"></item>
+		<item title = "Chapter 5" index = "56,73"></item>
+        <item title = "Chapter 6" index = "74,79"></item>
+		<item title = "Chapter 7" index = "80,112"></item>
+		<item title = "Rongin chobi" index = "113,121"></item>
+        
+	</chapter>
+</book>

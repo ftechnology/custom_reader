@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "157" page = "5,152" pageprefix = "SSC - Civics" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,11"></item>
+		<item title = "Chapter 2" index = "12,21"></item>
+		<item title = "Chapter 3" index = "22,29"></item>
+		<item title = "Chapter 4" index = "30,45"></item>
+		<item title = "Chapter 5" index = "46,55"></item>
+        <item title = "Chapter 6" index = "56,70"></item>
+		<item title = "Chapter 7" index = "71,78"></item>
+		<item title = "Chapter 8" index = "79,96"></item>
+		<item title = "Chapter 9" index = "97,114"></item>
+		<item title = "Chapter 10" index = "115,133"></item>
+		<item title = "Chapter 11" index = "134,152"></item>
+        
+	</chapter>
+</book>

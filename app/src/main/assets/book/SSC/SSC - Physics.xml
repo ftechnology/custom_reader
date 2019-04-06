@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "414" page = "5,409" pageprefix = "SSC - Physics" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,30"></item>
+		<item title = "Chapter 2" index = "31,60"></item>
+		<item title = "Chapter 3" index = "61,96"></item>
+		<item title = "Chapter 4" index = "97,126"></item>
+		<item title = "Chapter 5" index = "127,159"></item>
+        <item title = "Chapter 6" index = "160,186"></item>
+		<item title = "Chapter 7" index = "187,210"></item>
+		<item title = "Chapter 8" index = "211,241"></item>
+		<item title = "Chapter 9" index = "242,277"></item>
+		<item title = "Chapter 10" index = "278,306"></item>
+        <item title = "Chapter 11" index = "307,337"></item>
+		<item title = "Chapter 12" index = "338,354"></item>
+		<item title = "Chapter 13" index = "355,388"></item>
+        <item title = "Chapter 14" index = "389,409"></item>
+        
+	</chapter>
+</book>

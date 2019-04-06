@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "194" page = "5,189" pageprefix = "SSCE - Rocona Somver" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "বিরচন" index = "1,96"></item>
+		<item title = "ষড়ঋতু ও রূপবৈচিত্র্য" index = "97,105"></item>
+		<item title = "প্রকৃতি ও পরিবেশ বর্ণনা" index = "106,108"></item>
+		<item title = "অভিজ্ঞতা , আত্মকথন" index = "109,118"></item>
+		<item title = "বাংলাদেশের শ্রমজীবীমানুষ" index = "119,120"></item>
+		<item title = "ইতিহাস ও ঐতিহ্য" index = "121,122"></item>
+		<item title = "জীবনকথা" index = "123,129"></item>
+		<item title = "ছাত্রজীবন ও ছাত্রসমাজ" index = "130,131"></item>
+        <item title = "চরিত্র গঠন" index = "131,141"></item>
+        <item title = "খেলাধুলা ও শরীরচর্চা" index = "142,144"></item>
+        <item title = "উৎসব ও বিনােদন" index = "145,149"></item>
+        <item title = "বিজ্ঞান ও প্রযুক্তি" index = "150,155"></item>
+        <item title = "পরিবেশ ও স্বাস্থ্যরক্ষা" index = "156,160"></item>
+        <item title = "শিক্ষা ও প্রশিক্ষণ" index = "161,164"></item>
+        <item title = "জাতীয় দিবস" index = "165,168"></item>
+        <item title = "গণমাধ্যম ও যােগাযােগ" index = "169,171"></item>
+        <item title = "সমস্যা ও উন্নয়ন" index = "172,189"></item>
+	</chapter>
+</book>

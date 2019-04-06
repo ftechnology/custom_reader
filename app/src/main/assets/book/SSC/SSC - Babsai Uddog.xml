@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "154" page = "5,149" pageprefix = "SSC - Babsai Uddog" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,11"></item>
+		<item title = "Chapter 2" index = "12,22"></item>
+		<item title = "Chapter 3" index = "23,35"></item>
+		<item title = "Chapter 4" index = "36,62"></item>
+		<item title = "Chapter 5" index = "63,72"></item>
+        <item title = "Chapter 6" index = "73,82"></item>
+		<item title = "Chapter 7" index = "83,94"></item>
+		<item title = "Chapter 8" index = "95,105"></item>
+		<item title = "Chapter 9" index = "106,116"></item>
+		<item title = "Chapter 10" index = "117,126"></item>
+		<item title = "Chapter 11" index = "127,136"></item>
+        <item title = "Chapter 12" index = "137,149"></item>
+        
+	</chapter>
+</book>

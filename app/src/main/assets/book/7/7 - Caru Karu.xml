@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "74" page = "5,69" pageprefix = "7 - Caru Karu" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,7"></item>
+		<item title = "Chapter 2" index = "8,16"></item>
+		<item title = "Chapter 3" index = "17,26"></item>
+		<item title = "Chapter 4" index = "27,30"></item>
+		<item title = "Chapter 5" index = "31,39"></item>
+		<item title = "Chapter 6" index = "40,60"></item>
+        <item title = "Rong o ronger bebohar" index = "61,69"></item>
+	</chapter>
+</book>

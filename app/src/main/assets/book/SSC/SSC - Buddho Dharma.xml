@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "177" page = "5,172" pageprefix = "SSC - Buddho Dharma" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,21"></item>
+		<item title = "Chapter 2" index = "22,33"></item>
+		<item title = "Chapter 3" index = "34,48"></item>
+		<item title = "Chapter 4" index = "49,61"></item>
+		<item title = "Chapter 5" index = "62,74"></item>
+        <item title = "Chapter 6" index = "75,87"></item>
+		<item title = "Chapter 7" index = "88,96"></item>
+		<item title = "Chapter 8" index = "97,110"></item>
+		<item title = "Chapter 9" index = "111,121"></item>
+		<item title = "Chapter 10" index = "122,137"></item>
+		<item title = "Chapter 11" index = "138,158"></item>
+        <item title = "Chapter 12" index = "159,172"></item>
+        
+	</chapter>
+</book>

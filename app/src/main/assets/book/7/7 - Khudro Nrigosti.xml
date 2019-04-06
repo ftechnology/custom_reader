@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "90" page = "5,85" pageprefix = "7 - Khudro Nrigosti" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,14"></item>
+		<item title = "Chapter 2" index = "15,29"></item>
+		<item title = "Chapter 3" index = "30,44"></item>
+		<item title = "Chapter 4" index = "45,59"></item>
+		<item title = "Chapter 5" index = "60,69"></item>
+        <item title = "Chapter 5" index = "70,85"></item>
+	</chapter>
+</book>
