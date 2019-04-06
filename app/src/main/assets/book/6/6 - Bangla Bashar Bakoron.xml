@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "118" page = "5,118" pageprefix = "6 - Bangla Bashar Bakoron"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,12"></item>
+		<item title = "Chapter 2" index = "13,39"></item>
+		<item title = "Chapter 3" index = "40,47"></item>
+		<item title = "Chapter 4" index = "48,50"></item>
+		<item title = "Chapter 5" index = "51,56"></item>
+		<item title = "Chapter 6" index = "57,59"></item>
+		<item title = "Chapter 7" index = "60,63"></item>
+		<item title = "Chapter 8" index = "64,67"></item>
+		<item title = "Chapter 9" index = "69,70"></item>
+		<item title = "Chapter 10" index = "70,75"></item>
+		<item title = "Chapter 11" index = "76,80"></item>
+		<item title = "Chapter 12" index = "81,85"></item>
+		<item title = "Chapter 13" index = "86,87"></item>
+		<item title = "Chapter 14" index = "88,112"></item>		
+	</chapter>
+</book>

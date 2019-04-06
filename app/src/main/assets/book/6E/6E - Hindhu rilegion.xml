@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "97" page = "5,91" pageprefix = "6 - Hindu" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,8"></item>
+		<item title = "Chapter 2" index = "9,20"></item>
+		<item title = "Chapter 3" index = "21,32"></item>
+		<item title = "Chapter 4" index = "33,41"></item>
+		<item title = "Chapter 5" index = "42,51"></item>
+		<item title = "Chapter 6" index = "52,61"></item>
+		<item title = "Chapter 7" index = "62,78"></item>
+		<item title = "Chapter 8" index = "79,92"></item>
+	</chapter>
+</book>

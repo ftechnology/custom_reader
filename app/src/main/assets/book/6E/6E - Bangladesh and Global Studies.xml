@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "112" page = "5,106" pageprefix = "6E - Bangladesh and Global Studies" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,13"></item>
+		<item title = "Chapter 2" index = "14,21"></item>
+		<item title = "Chapter 3" index = "22,33"></item>
+		<item title = "Chapter 4" index = "34,40"></item>
+		<item title = "Chapter 5" index = "41,49"></item>
+		<item title = "Chapter 6" index = "50,56"></item>
+		<item title = "Chapter 7" index = "57,66"></item>
+		<item title = "Chapter 8" index = "67,75"></item>
+		<item title = "Chapter 9" index = "76,81"></item>
+		<item title = "Chapter 10" index = "82,86"></item>
+		<item title = "Chapter 11" index = "87,95"></item>
+		<item title = "Chapter 12" index = "96,100"></item>
+		<item title = "Chapter 13" index = "101,107"></item>
+	</chapter>
+</book>

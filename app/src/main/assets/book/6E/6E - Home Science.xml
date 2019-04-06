@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "142" page = "5,136" pageprefix = "6E - Home Science" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,12"></item>
+		<item title = "Chapter 2" index = "13,18"></item>
+		<item title = "Chapter 3" index = "19,25"></item>
+		<item title = "Chapter 4" index = "26,37"></item>
+		<item title = "Chapter 5" index = "38,48"></item>
+		<item title = "Chapter 6" index = "49,59"></item>
+		<item title = "Chapter 7" index = "60,66"></item>
+		<item title = "Chapter 8" index = "67,77"></item>
+		<item title = "Chapter 9" index = "78,86"></item>
+		<item title = "Chapter 10" index = "87,94"></item>
+		<item title = "Chapter 11" index = "95,102"></item>
+		<item title = "Chapter 12" index = "103,111"></item>
+		<item title = "Chapter 13" index = "112,120"></item>
+		<item title = "Chapter 14" index = "121,126"></item>
+		<item title = "Chapter 15" index = "127,137"></item>
+	</chapter>
+</book>

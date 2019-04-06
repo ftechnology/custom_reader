@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "98" page = "5,92" pageprefix = "6 - Khudra Nree Gusti" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,13"></item>
+		<item title = "Chapter 2" index = "14,31"></item>
+		<item title = "Chapter 3" index = "32,40"></item>
+		<item title = "Chapter 4" index = "41,57"></item>
+		<item title = "Chapter 5" index = "58,79"></item>
+		<item title = "Chapter 6" index = "80,93"></item>
+	</chapter>
+</book>

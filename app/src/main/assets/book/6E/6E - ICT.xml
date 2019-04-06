@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "82" page = "5,76" pageprefix = "6E - ICT" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,19"></item>
+		<item title = "Chapter 2" index = "20,42"></item>
+		<item title = "Chapter 3" index = "43,53"></item>
+		<item title = "Chapter 4" index = "54,63"></item>
+		<item title = "Chapter 5" index = "64,77"></item>
+	</chapter>
+</book>

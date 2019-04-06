@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "182" page = "5,176" pageprefix = "6E - Mathematics" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,44"></item>
+		<item title = "Chapter 2" index = "45,68"></item>
+		<item title = "Chapter 3" index = "69,87"></item>
+		<item title = "Chapter 4" index = "88,109"></item>
+		<item title = "Chapter 5" index = "110,122"></item>
+		<item title = "Chapter 6" index = "123,142"></item>
+		<item title = "Chapter 7" index = "143,157"></item>
+		<item title = "Chapter 8" index = "158,171"></item>
+		<item title = "Chapter 9" index = "172,177"></item>
+	</chapter>
+</book>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "112" page = "5,106" pageprefix = "6E - Christian" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,14"></item>
+		<item title = "Chapter 2" index = "15,23"></item>
+		<item title = "Chapter 3" index = "24,34"></item>
+		<item title = "Chapter 4" index = "35,42"></item>
+		<item title = "Chapter 5" index = "43,50"></item>
+		<item title = "Chapter 6" index = "51,62"></item>
+		<item title = "Chapter 7" index = "63,72"></item>
+		<item title = "Chapter 8" index = "73,84"></item>
+		<item title = "Chapter 9" index = "85,97"></item>
+		<item title = "Chapter 10" index = "98,107"></item>
+	</chapter>
+</book>
