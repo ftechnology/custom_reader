@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "138" page = "5,133" pageprefix = "7 - Krishi Shikkha" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,17"></item>
+		<item title = "Chapter 2" index = "18,38"></item>
+		<item title = "Chapter 3" index = "39,58"></item>
+		<item title = "Chapter 4" index = "59,76"></item>
+		<item title = "Chapter 5" index = "77,108"></item>
+        <item title = "Chapter 6" index = "109,133"></item>
+	</chapter>
+</book>

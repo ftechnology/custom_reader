@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "158" page = "5,153" pageprefix = "8 - BGS" > </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,12"></item>
+		<item title = "Chapter 2" index = "13,33"></item>
+		<item title = "Chapter 3" index = "34,45"></item>
+		<item title = "Chapter 4" index = "46,51"></item>
+		<item title = "Chapter 5" index = "52,60"></item>
+		<item title = "Chapter 6" index = "61,70"></item>
+		<item title = "Chapter 7" index = "71,84"></item>
+		<item title = "Chapter 8" index = "85,101"></item>
+		<item title = "Chapter 9" index = "102,106"></item>
+		<item title = "Chapter 10" index = "107,113"></item>
+		<item title = "Chapter 11" index = "114,126"></item>
+		<item title = "Chapter 12" index = "127,136"></item>
+		<item title = "Chapter 13" index = "137,143"></item>
+		<item title = "Chapter 14" index = "144,153"></item>
+	</chapter>
+</book>

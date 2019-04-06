@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "114" page = "5,109" pageprefix = "Secondary - 2018 - Class - 8 - Christian 8 BV PDF Web" > </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<!-- page# of chapter doesn't match with index, 
+		according to index last chapter starts from page#135 
+		where total # of pages in this book is 114.
+		So we organize this according to the real page# instead of index -->
+		<item title = "Chapter 1" index = "1,11"></item>
+		<item title = "Chapter 2" index = "12,21"></item>
+		<item title = "Chapter 3" index = "22,31"></item>
+		<item title = "Chapter 4" index = "32,41"></item>
+		<item title = "Chapter 5" index = "42,53"></item>
+		<item title = "Chapter 6" index = "54,63"></item>
+		<item title = "Chapter 7" index = "64,72"></item>
+		<item title = "Chapter 8" index = "73,78"></item>
+		<item title = "Chapter 9" index = "79,94"></item>
+		<item title = "Chapter 10" index = "95,109"></item>
+	</chapter>
+</book>

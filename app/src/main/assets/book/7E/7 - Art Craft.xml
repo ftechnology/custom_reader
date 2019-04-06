@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "74" page = "5,69" pageprefix = "7 - Art Craft" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,8"></item>
+		<item title = "Chapter 2" index = "9,17"></item>
+		<item title = "Chapter 3" index = "18,28"></item>
+		<item title = "Chapter 4" index = "29,33"></item>
+		<item title = "Chapter 5" index = "34,42"></item>
+		<item title = "Chapter 6" index = "43,60"></item>
+        <item title = "Colors and their uses" index = "61,69"></item>
+	</chapter>
+</book>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "140" page = "5,135" pageprefix = "7 - Buddho Religion" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,12"></item>
+		<item title = "Chapter 2" index = "13,20"></item>
+		<item title = "Chapter 3" index = "21,33"></item>
+		<item title = "Chapter 4" index = "34,42"></item>
+		<item title = "Chapter 5" index = "43,58"></item>
+		<item title = "Chapter 6" index = "59,66"></item>
+        <item title = "Chapter 7" index = "67,84"></item>
+		<item title = "Chapter 8" index = "85,96"></item>
+		<item title = "Chapter 9" index = "97,112"></item>
+		<item title = "Chapter 10" index = "113,124"></item>
+		<item title = "Chapter 11" index = "125,135"></item>
+	</chapter>
+</book>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "145" page = "5,140" pageprefix = "Secondary - 2018 - Class - 8 - Garhosto biggan class-8 PDF Web" > </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,1"></item>
+		<!--item title = "Section A" index = "1,1"></item-->
+		<item title = "Chapter 1" index = "2,13"></item>
+		<item title = "Chapter 2" index = "14,23"></item>
+		<item title = "Chapter 3" index = "24,32"></item>
+		<!--item title = "Section B" index = "32,32"></item-->
+		<item title = "Chapter 4" index = "33,40"></item>
+		<item title = "Chapter 5" index = "41,52"></item>
+		<item title = "Chapter 6" index = "53,60"></item>
+		<item title = "Chapter 7" index = "61,72"></item>
+		<!--item title = "Section C" index = "72,72"></item-->
+		<item title = "Chapter 8" index = "73,87"></item>
+		<item title = "Chapter 9" index = "88,95"></item>
+		<item title = "Chapter 10" index = "96,107"></item>
+		<item title = "Chapter 11" index = "108,117"></item>
+		<!--item title = "Section D" index = "117,117"></item-->
+		<item title = "Chapter 12" index = "118,122"></item>
+		<item title = "Chapter 13" index = "123,128"></item>
+		<item title = "Chapter 14" index = "129,131"></item>
+		<item title = "Chapter 15" index = "132,140"></item>
+	</chapter>
+</book>
