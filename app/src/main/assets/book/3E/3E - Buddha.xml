@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "81" page = "5,75" pageprefix = "3E - Buddo" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,7"></item>
+		<item title = "Chapter 2" index = "8,11"></item>
+		<item title = "Chapter 3" index = "12,17"></item>
+		<item title = "Chapter 4" index = "18,22"></item>
+		<item title = "Chapter 5" index = "23,28"></item>
+		<item title = "Chapter 6" index = "29,33"></item>
+		<item title = "Chapter 7" index = "34,39"></item>
+		<item title = "Chapter 8" index = "40,46"></item>
+		<item title = "Chapter 9" index = "47,57"></item>
+		<item title = "Chapter 10" index = "58,63"></item>
+		<item title = "Chapter 11" index = "64,71"></item>
+		<item title = "Chapter 12" index = "72,76"></item>
+	</chapter>
+</book>

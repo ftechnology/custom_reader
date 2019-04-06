@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "106" page = "5,101" pageprefix = "4E - Buddha" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,10"></item>
+		<item title = "Chapter 2" index = "11,17"></item>
+		<item title = "Chapter 3" index = "18,23"></item>
+		<item title = "Chapter 4." index = "24,30"></item>
+		<item title = "Chapter 5" index = "31,36"></item>
+		<item title = "Chapter 6" index = "37,41"></item>
+		<item title = "Chapter 7" index = "42,51"></item>
+		<item title = "Chapter 8" index = "52,67"></item>
+		<item title = "Chapter 9" index = "68,75"></item>
+		<item title = "Chapter 10" index = "76,87"></item>
+		<item title = "Chapter 11" index = "88,93"></item>
+		<item title = "Chapter 12" index = "94,101"></item>
+	</chapter>
+</book>

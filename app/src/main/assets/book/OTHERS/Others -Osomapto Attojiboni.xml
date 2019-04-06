@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">
+	<meta total = "345" page = "15,330" pageprefix = "Others -Osomapto Attojiboni" free="true"> </meta>
+	<chapter >
+		<item title = "Introduction" index = "-14,0"></item>
+		<item title = "Part 1" index = "1,50"></item>
+        <item title = "Part 2" index = "51,100"></item>
+        <item title = "Part 3" index = "101,150"></item>
+        <item title = "Part 4" index = "151,200"></item>
+        <item title = "Part 5" index = "201,250"></item>
+        <item title = "Part 6" index = "251,288"></item>
+        <item title = "Tika" index = "289,293"></item>
+         <item title = "Political Life" index = "294,305"></item>
+         <item title = "Personal Life Tika" index = "306,330"></item>
+	</chapter>
+</book>

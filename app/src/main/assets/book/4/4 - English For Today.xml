@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "97" page = "5,92" pageprefix = "4 - English For Today" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,1"></item>
+		<item title = "Chapter 1" index = "2,3"></item>
+		<item title = "Chapter 2" index = "4,5"></item>
+		<item title = "Chapter 3" index = "6,7"></item>
+		<item title = "Chapter 4." index = "8,9"></item>
+		<item title = "Chapter 5" index = "10,11"></item>
+		<item title = "Chapter 6" index = "12,13"></item>
+		<item title = "Chapter 7" index = "14,15"></item>
+		<item title = "Chapter 8" index = "16,17"></item>
+		<item title = "Chapter 9" index = "18,19"></item>
+		<item title = "Chapter 10" index = "20,21"></item>
+		<item title = "Chapter 11" index = "22,23"></item>
+		<item title = "Chapter 12" index = "24,25"></item>
+        <item title = "Chapter 13" index = "26,27"></item>
+		<item title = "Chapter 14" index = "28,29"></item>
+		<item title = "Chapter 15" index = "30,31"></item>
+		<item title = "Chapter 16" index = "32,33"></item>
+		<item title = "Chapter 17" index = "34,35"></item>
+        <item title = "Chapter 18" index = "36,37"></item>
+		<item title = "Chapter 19" index = "38,39"></item>
+		<item title = "Chapter 20" index = "40,41"></item>
+		<item title = "Chapter 21" index = "42,43"></item>
+		<item title = "Chapter 22" index = "44,45"></item>
+		<item title = "Chapter 23" index = "46,47"></item>
+		<item title = "Chapter 24" index = "48,49"></item>
+		<item title = "Chapter 25" index = "50,51"></item>
+		<item title = "Chapter 26" index = "52,53"></item>
+		<item title = "Chapter 27" index = "54,55"></item>
+		<item title = "Chapter 28" index = "56,57"></item>
+		<item title = "Chapter 29" index = "58,59"></item>
+        <item title = "Chapter 30" index = "60,61"></item>
+		<item title = "Chapter 31" index = "62,63"></item>
+		<item title = "Chapter 32" index = "64,65"></item>
+		<item title = "Chapter 33" index = "66,67"></item>
+		<item title = "Chapter 34" index = "68,69"></item>
+        <item title = "Chapter 35" index = "70,71"></item>
+		<item title = "Chapter 36" index = "72,73"></item>
+		<item title = "Chapter 37" index = "74,75"></item>
+		<item title = "Chapter 38" index = "76,77"></item>
+		<item title = "Chapter 39" index = "78,79"></item>
+		<item title = "Chapter 40" index = "80,81"></item>
+		<item title = "Chapter 41" index = "82,83"></item>
+		<item title = "Chapter 42" index = "84,86"></item>
+		<item title = "Chapter 43" index = "87,92"></item>
+	</chapter>
+</book>

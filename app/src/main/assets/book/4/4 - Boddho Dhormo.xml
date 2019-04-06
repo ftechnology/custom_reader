@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "94" page = "5,89" pageprefix = "4 - Boddho Dhormo" free="false"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,9"></item>
+		<item title = "Chapter 2" index = "10,15"></item>
+		<item title = "Chapter 3" index = "16,21"></item>
+		<item title = "Chapter 4." index = "22,28"></item>
+		<item title = "Chapter 5" index = "29,34"></item>
+		<item title = "Chapter 6" index = "35,39"></item>
+		<item title = "Chapter 7" index = "40,48"></item>
+		<item title = "Chapter 8" index = "49,63"></item>
+		<item title = "Chapter 9" index = "64,70"></item>
+		<item title = "Chapter 10" index = "71,81"></item>
+		<item title = "Chapter 11" index = "82,87"></item>
+		<item title = "Chapter 12" index = "88,89"></item>
+	</chapter>
+</book>

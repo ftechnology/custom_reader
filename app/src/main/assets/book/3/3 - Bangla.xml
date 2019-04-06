@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "121" page = "11,109" pageprefix = "3 - Bangla" free="true"> </meta>
+	<chapter >
+		<item title = "Indexing" index = "-10,0"></item>
+		<item title = "Chapter 1" index = "1,4"></item>
+		<item title = "Chapter 2" index = "5,7"></item>
+		<item title = "Chapter 3" index = "8,13"></item>
+		<item title = "Chapter 4" index = "14,15"></item>
+		<item title = "Chapter 5" index = "16,21"></item>
+		<item title = "Chapter 6" index = "22,25"></item>
+		<item title = "Chapter 7" index = "26,31"></item>
+		<item title = "Chapter 8" index = "32,37"></item>
+		<item title = "Chapter 9" index = "38,41"></item>
+		<item title = "Chapter 10" index = "42,47"></item>
+		<item title = "Chapter 11" index = "48,51"></item>
+		<item title = "Chapter 12" index = "52,58"></item>
+		<item title = "Chapter 13" index = "59,61"></item>
+		<item title = "Chapter 14" index = "62,67"></item>
+		<item title = "Chapter 15" index = "68,71"></item>
+		<item title = "Chapter 16" index = "72,76"></item>
+		<item title = "Chapter 17" index = "77,79"></item>
+		<item title = "Chapter 18" index = "80,85"></item>
+		<item title = "Chapter 19" index = "86,89"></item>
+		<item title = "Chapter 20" index ="90,93"></item>
+		<item title = "Chapter 21" index = "94,98"></item>
+		<item title = "Chapter 22" index = "99,103"></item>
+		<item title = "Chapter 23" index = "104,110"></item>
+	</chapter>
+</book>
