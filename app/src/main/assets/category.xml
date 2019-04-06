@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root url ="">
+	<item value = "SSC" text="এসএসসি" image = "SSC - Bangla Sahapath.jpg"></item>
+	<item value = "OTHERS" text="অন্যান্য" image = "Others -Osomapto Attojiboni.jpg"></item>
+	<item value = "8" text="অষ্টম শ্রেণী" image = "8 - Anondo pat.jpg"></item>
+	<item value = "7" text="সপ্তম শ্রেণী" image = "7 - Ananda Path.jpg"></item>
+	<item value = "6" text="ষষ্ঠ শ্রেণী" image = "6 - Ananda Path.png"></item>
+	<item value = "5" text="পঞ্চম শ্রেণী" image = "5 - Bangla.jpg"></item>
+	<item value = "4" text="চতুর্থ শ্রেণী" image = "4 - Bangla.jpg"></item>
+	<item value = "3" text="তৃতীয় শ্রেণী" image = "3 - Bangla.jpg"></item>
+	<item value = "2" text="দ্বিতীয় শ্রেণী" image = "2 - Bangla.jpg"></item>
+	<item value = "1" text="প্রথম শ্রেণী" image = "1 - Bangla.jpg"></item>
+</root>

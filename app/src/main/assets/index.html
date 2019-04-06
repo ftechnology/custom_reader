@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WebViewCommunication</title>
+    <script src="responsivevoice.js"></script>
+<script type="text/javascript">
+
+function speak(text) {
+	//var component = document.getElementById("input");
+	//component.value = component.value + "JavaScript called from app!\n";
+    //responsiveVoice.speechAllowedByUser = true;
+	responsiveVoice.speak(text);
+}
+
+function isPlaying() {
+    if(responsiveVoice.isPlaying()) {
+      console.log("I hope you are listening");
+      return "true";
+    }
+    return "false";
+}
+
+function cancel() {
+    responsiveVoice.cancel();
+}
+
+function callFromAppWithReturn() {
+	return 'Hello from JavaScript';
+}
+
+</script>
+</head>
+</html>
