@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book title = "">	
+	<meta total = "78" page = "5,73" pageprefix = "Secondary - 2018 - Class - 8 -  Art - Craft-8  PDF EV.pdf opt" > </meta>
+	<chapter >
+		<item title = "Indexing" index = "-4,0"></item>
+		<item title = "Chapter 1" index = "1,6"></item>
+		<item title = "Chapter 2" index = "7,17"></item>
+		<item title = "Chapter 3" index = "18,27"></item>
+		<item title = "Chapter 4" index = "28,34"></item>
+		<item title = "Chapter 5" index = "35,38"></item>
+		<item title = "Chapter 6" index = "39,43"></item>
+		<item title = "Chapter 7" index = "44,64"></item>
+		<item title = "Appendix" index = "65,73"></item>
+	</chapter>
+</book>
