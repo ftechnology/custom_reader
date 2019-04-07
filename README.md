@@ -1,6 +1,2 @@
-Clone:
-git clone git@gitlab.com:easyreader/easyreader.git
-
-Commit Style Example:
-Ref #id Task Description
-Example: Ref #2 [Bookmark] Add bookmark to the Readingview
+This application is a custom reader app for bangladesh school students.
+Google play link: https://play.google.com/store/apps/details?id=com.microasset.saiful.easyreader
