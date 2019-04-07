@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/toolbar" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/tv_current_plan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/STR_CURRENT_PLAN"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_choose_plan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/alto_light_gray_1"
+                    android:padding="8dp"
+                    android:text="@string/STR_CHOOSE_PLAN"
+                    android:textColor="@color/black"
+                    android:textSize="20dp" />
+
+                <RadioGroup
+                    android:id="@+id/rb_group"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RadioButton
+                        android:id="@+id/rb_signle"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/border_shape"
+                        android:checked="true"
+                        android:padding="10dp"
+                        android:text="@string/STR_SINGLE_PLAN"
+                        android:textColor="@color/black"
+                        android:textSize="18dp" />
+
+                    <RadioButton
+                        android:id="@+id/rb_family"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/border_shape"
+                        android:padding="10dp"
+                        android:text="@string/STR_FAMILY_PLAN"
+                        android:textColor="@color/black"
+                        android:textSize="18dp" />
+
+                    <RadioButton
+                        android:id="@+id/rb_combo"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/border_shape"
+                        android:padding="10dp"
+                        android:text="@string/STR_COMBO_PLAN"
+                        android:textColor="@color/black"
+                        android:textSize="18dp" />
+                </RadioGroup>
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/tv_plan_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@color/alto_light_gray_1"
+                android:padding="8dp"
+                android:text="@string/STR_PLAN_PRICE"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tv_expire_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:background="@color/alto_light_gray_1"
+                android:padding="8dp"
+                android:text="@string/STR_PLAN_EXPIRE_DATE"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <LinearLayout
+                android:id="@+id/manual_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tv_payment_no"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/alto_light_gray_1"
+                    android:padding="8dp"
+                    android:text="@string/STR_PAYMENT_NUMBER"
+                    android:textColor="@color/black"
+                    android:textSize="20dp" />
+
+                <TextView
+                    android:id="@+id/tv_call_center_number"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="1dp"
+                    android:background="@color/alto_light_gray_1"
+                    android:padding="8dp"
+                    android:text="@string/STR_BKASH_CALL_CENTER_NUMBER"
+                    android:textColor="@color/black"
+                    android:textSize="20dp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btn_payment"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/gray_button_selector"
+                android:padding="10dp"
+                android:text="@string/STR_PAYMENT"
+                android:textColor="@color/black"
+                android:textSize="18dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

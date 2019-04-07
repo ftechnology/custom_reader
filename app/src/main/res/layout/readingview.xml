@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/ColorBkgndFontBtnIndicator">
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/toolbar" />
+
+<com.microasset.saiful.view.HackyViewPager
+    android:id="@+id/hackyViewpager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_below="@+id/toolBar">
+</com.microasset.saiful.view.HackyViewPager>
+
+    <ImageView
+        android:id="@+id/iv_left"
+        android:layout_width="@dimen/page_arrow_width"
+        android:layout_height="@dimen/page_arrow_width"
+        android:src="@drawable/left_button_selector"
+        android:layout_centerVertical="true"/>
+
+    <ImageView
+        android:id="@+id/iv_right"
+        android:layout_width="@dimen/page_arrow_width"
+        android:layout_height="@dimen/page_arrow_width"
+        android:src="@drawable/right_button_selector"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"/>
+
+    <FrameLayout
+        android:id="@+id/utility_view"
+        android:layout_below="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <FrameLayout
+        android:id="@+id/toc_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolBar" />
+
+
+    <FrameLayout
+        android:id="@+id/data_fragment"
+        android:layout_below="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

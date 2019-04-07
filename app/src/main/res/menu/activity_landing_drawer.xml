@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/ic_buy"
+        android:title="@string/drawer_item_1" />
+
+    <item
+        android:id="@+id/item6"
+        android:icon="@drawable/collection_books"
+        android:title="@string/STR_ALL_CLASS" />
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/ic_info"
+        android:title="@string/drawer_item_2" />
+    <item
+        android:id="@+id/item3"
+        android:icon="@drawable/ic_help"
+        android:title="@string/drawer_item_3" />
+
+    <item
+        android:id="@+id/item8"
+        android:icon="@drawable/ic_nav_settings"
+        android:title="@string/STR_SETTINGS" />
+
+    <item
+        android:id="@+id/item4"
+        android:icon="@drawable/ic_rate"
+        android:title="@string/drawer_item_4" />
+
+    <item
+        android:id="@+id/item5"
+        android:icon="@drawable/ic_contact_us"
+        android:title="@string/drawer_item_5" />
+
+
+    <item
+        android:id="@+id/item7"
+        android:title="@string/STR_EXPIRE_DATE"
+        android:visible="false" >
+        <menu>
+            <item
+                android:id="@+id/date"
+                android:title="@string/STR_EXPIRE_DATE"
+                android:enabled="false"/>
+        </menu>
+    </item>
+</menu>

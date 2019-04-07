@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">Nano Reader</string>
+    <string name="bookmark_list">বুকমার্ক তালিকা</string>
+    <string name="toc_list">অধ্যায়</string>
+    <string name="page_num">পৃষ্ঠা: </string>
+    <string name="STR_REMOVE">ডিলিট</string>
+    <string name="STR_BOOKMARK">বুকমার্ক</string>
+    <string name="STR_YES">হাঁ</string>
+    <string name="STR_NO">না</string>
+    <string name="STR_SORT">সাজান</string>
+    <string name="STR_HOME_WORK">Create home work</string>
+    <string name="STR_QUESTION">প্রশ্নাবলি</string>
+    <string name="STR_SORT_BY_PAGE">পৃষ্ঠা অনুসারে</string>
+    <string name="STR_SORT_BY_DATE">তারিখ অনুযায়ী</string>
+    <string name="STR_PAGE_EFFECT">পেজ ইফেক্ট</string>
+    <string name="STR_DOWNLOADING">ডাউনলোড হচ্ছে ...</string>
+
+    <string name="STR_DOWNLOAD_FULL_BOOK">সম্পূর্ণ বই ডাউনলোড করুন</string>
+
+    <string name="STR_NO_BOOKMARK">কোন বুকমার্ক নাই</string>
+    <string name="STR_NO_DRAWING">কোন পেইন্ট নাই</string>
+
+    <string name="STR_NOTE_HINT">Write home work...</string>
+    <string name="STR_TAKE_PICTURE">Take picture</string>
+    <string name="STR_SAVE">Save</string>
+    <string name="STR_PAINT">পেইন্ট</string>
+    <string name="STR_PAINT_LIST">পেইন্ট তালিকা</string>
+    <string name="STR_BOOKMARK_LIST">বুকমার্ক</string>
+    <string name="STR_TOC">অধ্যায়</string>
+    <string name="STR_THUMBNAIL">থাম্বনেইল</string>
+    <string name="STR_HISTIRY">পিছন পাতা</string>
+    <string name="STR_OCR">OCR</string>
+    <string name="STR_TUTORIAL">টিউটোরিয়াল</string>
+
+    <string name="STR_BACK">ব্যাক</string>
+    <string name="STR_DELETE">ডিলিট</string>
+    <string name="STR_RECTANGLE">আয়তক্ষেত্র</string>
+    <string name="STR_CROSS">ক্রস</string>
+    <string name="STR_COLOR">রঙ</string>
+
+    <string name="STR_BOOKMARK_ADDED">বুকমার্ক যোগ করা হয়েছে</string>
+    <string name="STR_BOOKMARK_DELETED">বুকমার্ক ডিলিট করা হয়েছে</string>
+    <string name="STR_HOMEWORK_ADDED">Homework added</string>
+    <string name="STR_HOMEWORK_DELETED">Homework deleted</string>
+    <string name="STR_BANGLA">বাংলা</string>
+    <string name="STR_ENGLISH">English</string>
+    <string name="STR_BOOKSHELF">বুকশেলফ</string>
+    <string name="STR_READER">রিডার</string>
+    <string name="STR_HOMEWORK_LIST">Homework list</string>
+    <string name="STR_HOMEWORK_PREVIEW">Homework preview</string>
+    <string name="STR_HOMEWORK_CREATE">Homework create</string>
+    <string name="drawer_item_1">সাবস্ক্রাইব </string>
+    <string name="drawer_item_2">অ্যাপ্লিকেশন তথ্য</string>
+    <string name="drawer_item_3">অ্যাপ্লিকেশন হেল্প</string>
+    <string name="drawer_item_4">মতামত দিন</string>
+    <string name="drawer_item_5">যোগাযোগ করুন</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="STR_APP_VER">অ্যাপ্লিকেশন ভার্সন</string>
+    <string name="STR_DEVELOPED_BY">নির্মাণে</string>
+    <string name="STR_FB_PAGE">ফেসবুক পেইজ</string>
+    <string name="STR_WEB_PAGE">Website</string>
+    <string name="STR_SHARE_APP">শেয়ার অ্যাপ্লিকেশন</string>
+    <string name="STR_DISCLAIMER">Disclaimer</string>
+
+    <string name="STR_PAY_DUE">সকল ফীচার সক্রিয় করার জন্য আপনাকে সাবস্ক্রাইব করা লাগবে</string>
+    <string name="STR_COMPANY_NAME">NanoAsset</string>
+
+    <string name="STR_RECENTLY_OPEN">সম্প্রতি পড়া</string>
+    <string name="STR_LAST_OPEN">শেষ খোলা: </string>
+    <string name="STR_JUMP_PAGE">নির্দিষ্ট পৃষ্ঠা নম্বরে যান </string>
+    <string name="STR_ENTER_JUMP_NUMBER">পৃষ্ঠা সংখ্যা:</string>
+    <string name="STR_NO_INTERNET">অনুগ্রহ করে ইন্টারনেটের সাথে সংযোগ করুন!</string>
+    <string name="STR_DOWNLOAD_FAILE">ডাউনলোড ব্যর্থ হয়েছে. অনুগ্রহপূর্বক আবার চেষ্টা করুন</string>
+    <string name="STR_PAID_ALREADY">আপনার মাসিক সাবস্ক্রিপশন সক্রিয় আছে</string>
+    <string name="STR_SUBCRIBE_SUCCESS">সাবস্ক্রিপশন সফল। সব ফীচার উপভোগ করুন!</string>
+    <string name="STR_LOADING">অনুগ্রহপূর্বক অপেক্ষা করুন...</string>
+    <string name="STR_REGISTRATION">ফ্রি রেজিস্ট্রেশন</string>
+    <string name="STR_ENTER_MOBILE_NUMBER">আপনার মোবাইল নাম্বার লিখুন</string>
+    <string name="STR_CONFIRM_MOBILE_NUMBER">একই নম্বর আবার লিখুন</string>
+    <string name="STR_ENTER_11_DIGIT">আপনার ১১ সংখ্যার মোবাইল নম্বর লিখুন</string>
+    <string name="STR_MOBILE_INVALID">সঠিক মোবাইল নম্বর লিখুন</string>
+    <string name="STR_MOBILE_NOT_MATCH">দুটি নম্বর মিলছে না !</string>
+    <string name="STR_WARNING">সতর্কীকরণ!</string>
+    <string name="STR_DOWNLAOD_CANCEL_MSG">ডাউনলোড বন্ধ হবে। আপনি ডাউনলোড বাতিল করতে চান?</string>
+    <string name="STR_TRY_AGAIN">কিছু ভুল হয়েছে. অনুগ্রহপূর্বক আবার চেষ্টা করুন</string>
+    <string name="STR_MOBILE_NUMBER_DES">নিবন্ধনের পরে মোবাইল নম্বর পরিবর্তন করা যাবে না। তাই সঠিক এবং বৈধ মোবাইল নম্বর লিখুন।</string>
+    <string name="STR_TRANSLATION">অনুবাদ</string>
+    <string name="STR_INPUT_TEXT">অনুগ্রহ করে কিছু ইংরেজি টেক্সট লিখুন</string>
+    <string name="STR_TRANSLATE">ট্রান্সলেট</string>
+    <string name="STR_VOICE">ভয়েস</string>
+    <string name="STR_ALL_CLASS">সকল ক্লাস</string>
+    <string name="STR_PAYMENT_INSTRUCTION">সকল ফীচার সক্রিয় করার নির্দেশনাবলী</string>
+    <string name="STR_PAYMENT_DES">সকল ফীচার সক্রিয় করার জন্য আপনাকে মাসিক গ্রাহক সক্রিয় করা লাগবে, অনুগ্রহ করে নীচের বিকাশ নম্বরে আপনার পেমেন্ট পাঠান :</string>
+    <string name="STR_PAYMENT_NUMBER">বিকাশ নম্বর: %1$s</string>
+    <string name="STR_PAYMENT_PRICE">টাকার পরিমাণ: %1$s টাকা</string>
+    <string name="STR_BKASH_REF_CODE">রেফারেন্স কোড: %1$s</string>
+    <string name="STR_BKASH_REF_CODE_DES">টাকা পাঠানোর সময় বিকাশ রেফারেন্স কোড হিসাবে নীচের কোড যোগ করুন। আপনি এই রেফারেন্স কোড যোগ না করলে আমরা আপনাকে সনাক্ত করতে পারছি না।</string>
+    <string name="STR_BKASH_CALL_CENTER_NUMBER">কল সেন্টার নম্বর: %1$s</string>
+    <string name="STR_BKASH_CALL_CENTER_NUMBER_DES">আপনার মাসিক গ্রাহক সক্রিয় করার জন্য পেমেন্টের পরে নিচের কল সেন্টার নম্বরটিতে কল করুন</string>
+    <string name="STR_CALL_CENTER_NUM">কল সেন্টার নম্বর</string>
+    <string name="STR_USER_EXISTS">এই নম্বর ইতিমধ্যে নিবন্ধিত, ভিন্ন নম্বর প্রদান করুন!</string>
+    <string name="STR_NEW_VERSION_DOWNLOAD">নতুন ভার্সন ডাউনলোড করুন!</string>
+    <string name="STR_UPDATE_APP">আপডেট এপ্লিকেশন</string>
+    <string name="STR_UPDATE">আপডেট</string>
+    <string name="STR_CANCEL">বাতিল</string>
+    <string name="STR_EXPIRE_DATE">সাবস্ক্রিপশনের মেয়াদ শেষ হবে</string>
+    <string name="STR_USER_USED_MAX_DEVICE_USING_CURRENT_PLAN">আরো ডিভাইস সমর্থন করার জন্য আপনার প্ল্যান পরিবর্তন করুন!</string>
+    <string name="STR_SELECT_YOUR_PLAN">Please select your plan -> Single, Family or Combo</string>
+    <string name="STR_CURRENT_PLAN">বর্তমান প্ল্যান: %1$s</string>
+    <string name="STR_SINGLE_PLAN">একক: ১ ডিভাইস</string>
+    <string name="STR_FAMILY_PLAN">ফ্যামিলি: ৩ ডিভাইস</string>
+    <string name="STR_COMBO_PLAN">কম্বো: ১০ ডিভাইস</string>
+    <string name="STR_PLAN_PRICE">প্ল্যান মূল্য: %1$s টাকা</string>
+    <string name="STR_PLAN_EXPIRE_DATE">মেয়াদ উত্তীর্ণের তারিখ: %1$s</string>
+    <string name="STR_PAYMENT">পেমেন্ট</string>
+    <string name="STR_CHOOSE_PLAN">আপনার প্ল্যান বাছাই করুন</string>
+    <string name="STR_SETTINGS">সেটিংস</string>
+    <string name="STR_CHOOSE_LANGUAGE">অ্যাপ্লিকেশনের ভাষা পরিবর্তন করুন</string>
+    <string name="STR_REG_NUMBER">রেজি: নম্বর: %1$s</string>
+    <string name="STR_BOOK_COUNT">%1$s টি বই</string>
+    <string name="STR_VERIFY_INSTRUCTION">একটি কোড আপনার মোবাইল নম্বরে পাঠানো হয়েছে। নিবন্ধন সম্পূর্ণ করতে সে কোডটি ইনপুট দিন</string>
+    <string name="STR_VERIFY_CODE">কোড যাচাই করুন</string>
+    <string name="STR_RESEND_CODE">পুনরায় কোড পাঠান</string>
+    <string name="STR_PLAN_ACTIVATED">%1$s সক্রিয় করা হয়েছে</string>
+    <string name="STR_PAYMENT_FIRST">অনুগ্রহ করে নির্দেশ অনুযায়ী টাকা প্রদান করুন</string>
+    <string name="STR_WRITE_CODE">কোড লিখুন</string>
+    <string name="STR_CHOOSE_PAGE_EFFET">পেজ অ্যানিমেশন পরিবর্তন করুন</string>
+    <string name="STR_NO_GT_TITLE">গুগল ট্রান্সলেট ইনস্টল করা নাই!</string>
+    <string name="STR_NO_GOOGLE_TRANSLATION">গুগল ট্রান্সলেট ইনস্টল করুন, এবং অফলাইন ট্রান্সলেট সক্রিয় করুন</string>
+    <string name="STR_INSTALL">ইনস্টল</string>
+    <string name="STR_NO_TUTORIAL">কোন টিউটোরিয়াল পাওয়া যায় নি</string>
+    <string name="STR_AVAILABLE_TUTORIAL">প্রাপ্য টিউটোরিয়াল</string>
+    <string name="STR_CHAPTER">অধ্যায়</string>
+    <string name="STR_ALL_CHAPTER">সব অধ্যায়</string>
+    <string name="STR_NO_QUESTION">এই বইয়ের জন্য কোন প্রশ্নাবলি পাওয়া যায়নি</string>
+
+    <string-array name="page_effect_arrays">
+        <item>স্লাইড্</item>
+        <item>পেজ ফ্লিপ</item>
+        <item>পেজ স্ট্যাক</item>
+        <item>কিউব ইন</item>
+        <item>পেজ গ্রিপ</item>
+        <item>ফোরগ্রাউন্ড তো ব্যাকগ্রাউন্ড</item>
+    </string-array>
+
+    <string-array name="language_arrays">
+        <item>বাংলা</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>এসএসসি</item>
+        <item>অন্যান্য</item>
+        <item>অষ্টম শ্রেণী</item>
+        <item>সপ্তম শ্রেণী</item>
+        <item>ষষ্ঠ শ্রেণী</item>
+        <item>পঞ্চম শ্রেণী</item>
+        <item>চতুর্থ শ্রেণী</item>
+        <item>তৃতীয় শ্রেণী</item>
+        <item>দ্বিতীয় শ্রেণী</item>
+        <item>প্রথম শ্রেণী</item>
+    </string-array>
+
+</resources>

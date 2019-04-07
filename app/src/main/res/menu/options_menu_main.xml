@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_youtube"
+        android:icon="@drawable/ic_tutorial"
+        android:title="@string/STR_SETTINGS"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/item_ocr"
+        android:icon="@drawable/ic_ocr"
+        android:title="@string/STR_OCR"
+        app:showAsAction="always"></item>
+
+    <item
+        android:id="@+id/item_setting"
+        android:icon="@drawable/ic_nav_settings"
+        android:title="@string/STR_SETTINGS"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/item_questions"
+        android:icon="@drawable/ic_help"
+        android:title="@string/STR_QUESTION"
+        app:showAsAction="ifRoom"></item>
+
+    <item
+        android:id="@+id/item_more"
+        android:icon="@drawable/ic_more"
+        android:title="@string/STR_HOME_WORK"
+        app:showAsAction="always"></item>
+
+</menu>

@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Nano Reader</string>
+    <string name="bookmark_list">Bookmark List</string>
+    <string name="toc_list">TOC List</string>
+    <string name="page_num">Page: </string>
+    <string name="STR_REMOVE">Remove</string>
+    <string name="STR_BOOKMARK">Bookmark</string>
+    <string name="STR_YES">Yes</string>
+    <string name="STR_NO">No</string>
+    <string name="STR_SORT">Sort</string>
+    <string name="STR_HOME_WORK">Create home work</string>
+    <string name="STR_QUESTION">Questions</string>
+    <string name="STR_SORT_BY_PAGE">Sort by page</string>
+    <string name="STR_SORT_BY_DATE">Sort by date</string>
+    <string name="STR_PAGE_EFFECT">Page effect</string>
+    <string name="STR_DOWNLOADING">Downloading...</string>
+
+    <string name="STR_DOWNLOAD_FULL_BOOK">Download full book</string>
+
+    <string name="STR_NO_BOOKMARK">No bookmark is added</string>
+    <string name="STR_NO_DRAWING">No drawing is added</string>
+
+    <string name="STR_NOTE_HINT">Write home work...</string>
+    <string name="STR_TAKE_PICTURE">Take picture</string>
+    <string name="STR_SAVE">Save</string>
+    <string name="STR_PAINT">Paint</string>
+    <string name="STR_PAINT_LIST">Paint list</string>
+    <string name="STR_BOOKMARK_LIST">Bookmarks</string>
+    <string name="STR_TOC">Chapter</string>
+    <string name="STR_THUMBNAIL">Thumbnail</string>
+    <string name="STR_HISTIRY">History</string>
+    <string name="STR_OCR">OCR</string>
+    <string name="STR_TUTORIAL">Tutorial</string>
+
+    <string name="STR_BACK">Back</string>
+    <string name="STR_DELETE">Delete</string>
+    <string name="STR_RECTANGLE">Rectangle</string>
+    <string name="STR_CROSS">Cross</string>
+    <string name="STR_COLOR">Color</string>
+
+    <string name="STR_BOOKMARK_ADDED">Bookmark added</string>
+    <string name="STR_BOOKMARK_DELETED">Bookmark deleted</string>
+    <string name="STR_HOMEWORK_ADDED">Homework added</string>
+    <string name="STR_HOMEWORK_DELETED">Homework deleted</string>
+    <string name="STR_BANGLA">বাংলা</string>
+    <string name="STR_ENGLISH">English</string>
+    <string name="STR_BOOKSHELF">Bookshelf</string>
+    <string name="STR_READER">Reader</string>
+    <string name="STR_HOMEWORK_LIST">Homework list</string>
+    <string name="STR_HOMEWORK_PREVIEW">Homework preview</string>
+    <string name="STR_HOMEWORK_CREATE">Homework create</string>
+    <string name="drawer_item_1">Subscribe </string>
+    <string name="drawer_item_2">App Info</string>
+    <string name="drawer_item_3">App Help</string>
+    <string name="drawer_item_4">Rate us</string>
+    <string name="drawer_item_5">Contact us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="STR_APP_VER">Application version</string>
+    <string name="STR_DEVELOPED_BY">Developed by</string>
+    <string name="STR_FB_PAGE">Facebook page</string>
+    <string name="STR_WEB_PAGE">Website</string>
+    <string name="STR_SHARE_APP">Share app</string>
+    <string name="STR_DISCLAIMER">Disclaimer</string>
+
+    <string name="STR_PAY_DUE">Please Subscribe to enjoy all features!</string>
+    <string name="STR_COMPANY_NAME">NanoAsset</string>
+
+    <string name="STR_RECENTLY_OPEN">Recently Opened</string>
+    <string name="STR_LAST_OPEN">Last Open: </string>
+    <string name="STR_JUMP_PAGE">Jump to page number</string>
+    <string name="STR_ENTER_JUMP_NUMBER">Page number:</string>
+    <string name="STR_NO_INTERNET">Please connect to internet!</string>
+    <string name="STR_DOWNLOAD_FAILE">Download failed. Please try again</string>
+    <string name="STR_PAID_ALREADY">Your monthly subscription is already activated</string>
+    <string name="STR_SUBCRIBE_SUCCESS">Subscription successfull. Enjoy all features!</string>
+    <string name="STR_LOADING">Please wait...</string>
+    <string name="STR_REGISTRATION">Free registration</string>
+    <string name="STR_ENTER_MOBILE_NUMBER">Write your mobile number</string>
+    <string name="STR_CONFIRM_MOBILE_NUMBER">Write down the same number</string>
+    <string name="STR_ENTER_11_DIGIT">Write down your 11 digit mobile number</string>
+    <string name="STR_MOBILE_INVALID">Write down correct mobile number</string>
+    <string name="STR_MOBILE_NOT_MATCH">Two number does not matched!</string>
+    <string name="STR_WARNING">Warning!</string>
+    <string name="STR_DOWNLAOD_CANCEL_MSG">Download will stop. Are you sure to cancel the download?</string>
+    <string name="STR_TRY_AGAIN">Something went wrong. Please try again</string>
+    <string name="STR_MOBILE_NUMBER_DES">Mobile number can not be changed once you registered. Please input correct and valid number</string>
+    <string name="STR_TRANSLATION">Translation</string>
+    <string name="STR_INPUT_TEXT">Please write down some english text</string>
+    <string name="STR_TRANSLATE">Translate</string>
+    <string name="STR_VOICE">Voice</string>
+    <string name="STR_ALL_CLASS">All class</string>
+    <string name="STR_PAYMENT_INSTRUCTION">Active all feature instruction</string>
+    <string name="STR_PAYMENT_DES">সকল ফীচার সক্রিয় করার জন্য আপনাকে মাসিক গ্রাহক সক্রিয় করা লাগবে, দয়া করে নীচের বিকাশ নম্বরে আপনার পেমেন্ট পাঠান :</string>
+    <string name="STR_PAYMENT_NUMBER">bKash number: %1$s</string>
+    <string name="STR_PAYMENT_PRICE">টাকার পরিমাণ: %1$s টাকা</string>
+    <string name="STR_BKASH_REF_CODE">রেফারেন্স কোড: %1$s</string>
+    <string name="STR_BKASH_REF_CODE_DES">টাকা পাঠানোর সময় বিকাশ রেফারেন্স কোড হিসাবে নীচের কোড যোগ করুন। আপনি এই রেফারেন্স কোড যোগ না করলে আমরা আপনাকে সনাক্ত করতে পারছি না।</string>
+    <string name="STR_BKASH_CALL_CENTER_NUMBER">Call center number: %1$s</string>
+    <string name="STR_BKASH_CALL_CENTER_NUMBER_DES">আপনার মাসিক গ্রাহক সক্রিয় করার জন্য পেমেন্টের পরে নিচের কল সেন্টার নম্বরটিতে কল করুন</string>
+    <string name="STR_CALL_CENTER_NUM">Call center number</string>
+    <string name="STR_USER_EXISTS">This number already registered! Please provide different number</string>
+    <string name="STR_NEW_VERSION_DOWNLOAD">Please download new version!</string>
+    <string name="STR_UPDATE_APP">Update application</string>
+    <string name="STR_UPDATE">Update</string>
+    <string name="STR_CANCEL">Cancel</string>
+    <string name="STR_EXPIRE_DATE">Subscription expire date</string>
+    <string name="STR_USER_USED_MAX_DEVICE_USING_CURRENT_PLAN">Please change your plan to support more device!</string>
+    <string name="STR_SELECT_YOUR_PLAN">Please select your plan -> Single, Family or Combo</string>
+    <string name="STR_CURRENT_PLAN">Current plan: %1$s</string>
+    <string name="STR_SINGLE_PLAN">Single: 1 device</string>
+    <string name="STR_FAMILY_PLAN">Family: 3 devices</string>
+    <string name="STR_COMBO_PLAN">Combo: 10 devices</string>
+    <string name="STR_PLAN_PRICE">Plan price: %1$s BDT</string>
+    <string name="STR_PLAN_EXPIRE_DATE">Expire date: %1$s</string>
+    <string name="STR_PAYMENT">Payment</string>
+    <string name="STR_SETTINGS">Settings</string>
+    <string name="STR_CHOOSE_PLAN">Choose your plan</string>
+    <string name="STR_CHOOSE_LANGUAGE">Change application language</string>
+    <string name="STR_REG_NUMBER">Reg num: %1$s</string>
+    <string name="STR_BOOK_COUNT">%1$s Books</string>
+    <string name="STR_VERIFY_INSTRUCTION">A verification code is sent to the given mobile number. Input that number to complete the registration</string>
+    <string name="STR_VERIFY_CODE">Verify code</string>
+    <string name="STR_RESEND_CODE">Resend code</string>
+    <string name="STR_PLAN_ACTIVATED">%1$s is activated</string>
+    <string name="STR_PAYMENT_FIRST">Please provide money amount as per instruction!</string>
+    <string name="STR_WRITE_CODE">Write verification code</string>
+    <string name="STR_CHOOSE_PAGE_EFFET">Change Page effect</string>
+    <string name="STR_NO_GT_TITLE">Google translate not installed!</string>
+    <string name="STR_NO_GOOGLE_TRANSLATION">Please install google translate, and enable offline translation</string>
+    <string name="STR_INSTALL">Install</string>
+    <string name="STR_NO_TUTORIAL">No tutorial available</string>
+    <string name="STR_AVAILABLE_TUTORIAL">Available tutorials</string>
+    <string name="STR_CHAPTER">Chapter</string>
+    <string name="STR_ALL_CHAPTER">All Chapters</string>
+    <string name="STR_NO_QUESTION">No question found for this book</string>
+    <string-array name="language_arrays">
+        <item>বাংলা</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="page_effect_arrays">
+        <item>Slide</item>
+        <item>Page Flip</item>
+        <item>Page Stack</item>
+        <item>Cube In</item>
+        <item>Page Grip</item>
+        <item>Foreground to background</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>SSC</item>
+        <item>Others</item>
+        <item>Class VIII</item>
+        <item>Class VII</item>
+        <item>Class VI</item>
+        <item>Class V</item>
+        <item>Class IV</item>
+        <item>Class III</item>
+        <item>Class II</item>
+        <item>Class I</item>
+    </string-array>
+
+</resources>

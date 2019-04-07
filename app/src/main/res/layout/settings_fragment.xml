@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/toolBar"
+        layout="@layout/toolbar" />
+
+    <RelativeLayout
+        android:id="@+id/rl_language"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/settings_row_height"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tv_language"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/STR_CHOOSE_LANGUAGE"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:typeface="serif" />
+
+        <Spinner
+            android:id="@+id/sp_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_language" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view_lan"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/alto_light_gray_1" />
+
+    <RelativeLayout
+        android:id="@+id/rl_effect"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/settings_row_height"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/tv_page_effect"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/STR_CHOOSE_PAGE_EFFET"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:typeface="serif" />
+
+        <Spinner
+            android:id="@+id/sp_page_effect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_page_effect" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view_effect"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/alto_light_gray_1" />
+</LinearLayout>

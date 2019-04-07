@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/thumbnail_item_width"
+    android:layout_height="@dimen/thumbnail_recycler_height"
+    android:padding="4dp">
+
+        <ImageView
+            android:id="@+id/imgThumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/tvPageNumber"
+            android:layout_weight="1"
+            android:scaleType="fitXY"
+            android:padding="1dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ic_empty_bookmark"
+            android:background="@drawable/white_bg_selector"/>
+
+    <TextView
+        android:id="@+id/tvPageNumber"
+        style="@style/TextAppearance.AppCompat.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="SL" />
+
+</RelativeLayout>
