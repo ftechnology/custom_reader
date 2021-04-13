@@ -6,8 +6,8 @@ android {
         applicationId "com.microasset.saiful.easyreader"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 120
-        versionName "1.2.0"
+        versionCode 110
+        versionName "1.1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
